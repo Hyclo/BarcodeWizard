@@ -1,0 +1,9 @@
+src/main/resources/images/
+target/
+binaryImage.png
+blurredImage.png
+dataMatrixImage.png
+debugImage.png
+grayImage.png
+perfectDataMatrix.png
+edgeImage.png
